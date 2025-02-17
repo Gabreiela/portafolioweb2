@@ -11,6 +11,16 @@
   }
   
 
+.texto1{
+  font-size: 100px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
 .logoinicio{
 width: 50%;
 max-width: 100%;
